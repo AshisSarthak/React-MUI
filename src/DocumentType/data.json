@@ -1,0 +1,74 @@
+[
+    {
+      "documentType": "Cash Reimbursable",
+      "language": "English",
+      "domain": "Supplied Contractors",
+      "intent": 12,
+      "entities": 96,
+      "documents": 12,
+      "assigned": 3,
+      "tagged": 6,
+      "trained": 3,
+      "status": "Assigned"
+    },
+    {
+      "documentType": "Fixed Price",
+      "language": "English",
+      "domain": "Supplied Contractors",
+      "intent": 12,
+      "entities": 96,
+      "documents": 12,
+      "assigned": 3,
+      "tagged": 6,
+      "trained": 3,
+      "status": "Assigned"
+    },
+    {
+      "documentType": "Cash Reimbursable",
+      "language": "English",
+      "domain": "Supplied Contractors",
+      "intent": 12,
+      "entities": 96,
+      "documents": 12,
+      "assigned": 3,
+      "tagged": 6,
+      "trained": 3,
+      "status": "Draft"
+    },
+    {
+      "documentType": "Fixed Price",
+      "language": "English",
+      "domain": "Supplied Contractors",
+      "intent": 12,
+      "entities": 96,
+      "documents": 12,
+      "assigned": 3,
+      "tagged": 6,
+      "trained": 3,
+      "status": "Draft"
+    },
+    {
+      "documentType": "Cash Reimbursable",
+      "language": "English",
+      "domain": "Supplied Contractors",
+      "intent": 12,
+      "entities": 96,
+      "documents": 12,
+      "assigned": 3,
+      "tagged": 6,
+      "trained": 3,
+      "status": "Tagged"
+    },
+    {
+      "documentType": "Fixed Price",
+      "language": "English",
+      "domain": "Supplied Contractors",
+      "intent": 12,
+      "entities": 96,
+      "documents": 12,
+      "assigned": 3,
+      "tagged": 6,
+      "trained": 3,
+      "status": "Tagged"
+    }
+  ]

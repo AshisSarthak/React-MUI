@@ -9,7 +9,6 @@ import "./AppBar.css";
 
 function AppBarSection() {
   return (
-    <div>
       <AppBar position="static" className="root">
         <Toolbar className="min48">
           <IconButton
@@ -45,7 +44,6 @@ function AppBarSection() {
           </section>
         </Toolbar>
       </AppBar>
-    </div>
   );
 }
 

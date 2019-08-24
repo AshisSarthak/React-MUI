@@ -12,5 +12,23 @@
   height: calc(100% - 48px);
 }
 .MuiDrawer-paper{
-  top: 48px;
+  top: 48px !important;
+}
+.vertical {
+  display: flex;
+  flex-direction: column;
+  padding-inline-start: 0px;
+}
+.icons {
+  width: 35px;
+  padding: 10px;
+  cursor: pointer;
+}
+.icons:hover {
+  background-color: #AAA;
+}
+.selected {
+  border-left: 2px solid #217DF3;
+  color: #217DF3;
+  background-color:  rgba(33,125,243,0.2);
 }

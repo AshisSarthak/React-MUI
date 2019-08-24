@@ -1,0 +1,44 @@
+.docType{
+    margin-left: 46px;
+    background-color: #EEE;
+}
+
+.docType h4, .docType btnSet {
+    display: inline-block;
+}
+.docType h4{
+    padding-left: 20px;
+}
+.btnSet {
+    position: absolute;
+    right: 10px;
+    top: 60px;
+}
+.docType button {
+    margin-left: 10px;
+    background-color: white;
+    color: #217DF3;
+    /* text-decoration-style: ca */
+}
+.createBtn{
+    color: white !important;
+    background-color: #217DF3 !important;
+}
+.menuItems{
+    width: 210px;
+}
+.MuiExpansionPanelDetails-root {
+    display: block !important;
+}
+.selected {
+    border-left: 2px solid #217DF3 !important;
+    color: #217DF3 !important;
+    background-color: rgba(33,125,243,0.2) !important;
+  }
+.tableWrapper {
+    width: calc(100% - 210px);
+    margin-left: 15px;
+}
+.pageSec{
+    display: flex;
+}
