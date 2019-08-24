@@ -1,0 +1,16 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+.appHeader {
+  height: 48px;
+}
+.drawer{
+  background-color: aqua;
+}
+.layout{
+  height: calc(100% - 48px);
+}
+.MuiDrawer-paper{
+  top: 48px;
+}

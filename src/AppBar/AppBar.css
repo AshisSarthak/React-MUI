@@ -1,0 +1,28 @@
+.root {
+    height: 48px;
+    background-color: #162835 !important;
+}
+.min48{
+    min-height: 48px !important;
+}
+.appBar {
+    height: 100%;
+}
+.rightHeader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 10px;
+}
+.projectDD {
+    width: 162px;
+    height: 28px;
+    border-radius: 4px;
+    border: 1px solid white;
+    background: transparent;
+    padding-left: 10px;
+}
+.projectDD:after{
+    color: white;
+}
